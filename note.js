@@ -10,6 +10,9 @@
 // confirm() 输入确认
 // prompt('please enter a word') 相当于python的input()
 // console.log(true) 日志输出,相当于print()
+// && python and
+// || or
+// ! not
 
 // JavaScript的月份范围用整数表示是0~11
 // 总结一下，有这么几条规则需要遵守：
