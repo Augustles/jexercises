@@ -1,5 +1,7 @@
 # javascript note
 
+
+# 数据类型object、string、boolean、number、null和undefined
 * JavaScript的月份范围用整数表示是0~11
 * 总结一下，有这么几条规则需要遵守：
 * 不要使用new Number()、new Boolean()、new String()创建包装对象；
@@ -61,6 +63,7 @@ date.getDate(); * return day
 * 浏览器信息, navigator.appName, appVersion, language, platform, userAgent
 * 操作dom
 * 返回ID为'test'的节点：
+* document.querySelector('h2')
 var test = document.getElementById('test');
 * 先定位ID为'test-table'的节点，再返回其内部所有tr节点：
 var trs = document.getElementById('test-table').getElementsByTagName('tr');
